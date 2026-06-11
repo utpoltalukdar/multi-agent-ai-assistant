@@ -1,6 +1,5 @@
 # Multi-Agent AI Assistant
 
-# Multi-Agent AI Assistant
 
 An AI-powered multi-agent system built using LangGraph and Google Gemini AI. The application uses multiple specialized agents to collaborate on tasks such as writing, reviewing, and improving content through an interactive Streamlit interface.
 
