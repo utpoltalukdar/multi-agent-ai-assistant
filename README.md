@@ -23,11 +23,12 @@ A Multi-Agent AI Assistant built using LangGraph, Google Gemini AI, and Streamli
 
 ## How to Run
 
+
 1. Clone the repository
 
 ```bash
 git clone https://github.com/utpoltalukdar/multi-agent-ai-assistant.git
-
+```
 
 ## Author
 
@@ -39,4 +40,4 @@ AI Engineer | Generative AI Enthusiast
 https://github.com/utpoltalukdar
 
 ### LinkedIn
-coming soon
+Coming Soon
